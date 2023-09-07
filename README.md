@@ -14,19 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/KJA000/KJA000/blob/output/github-contribution-grid-snake.svg"/>
-<table width=100% border="0">
-   <tr>
-      <td width=30%>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-      </td>
-      <td width=30%>
-<img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
-      </td>
-      <td width=30%>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  
-      </td>
-   </tr>
-</table>
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white")
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJA000&theme=tokyonight)](https://git.io/streak-stats)
