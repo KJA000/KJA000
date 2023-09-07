@@ -28,4 +28,5 @@ Here are some ideas to get you started:
    </tr>
 </table>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white")
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJA000&theme=tokyonight)](https://git.io/streak-stats)
