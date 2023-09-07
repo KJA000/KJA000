@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-3DDC84.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJA000&theme=tokyonight)](https://git.io/streak-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJA000&theme=tokyonight)](https://git.io/streak-stats)
