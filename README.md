@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img src="https://github.com/KJA000/KJA000/blob/output/github-contribution-grid-snake.svg"/>
 <table width=100% border="0">
    <tr>
       <td width=50%>
