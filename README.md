@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <img src="https://github.com/KJA000/KJA000/blob/output/github-contribution-grid-snake.svg"/>
 <table width=100% border="0">
    <tr>
-      <td width=100%>
+      <td width=30%>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
       </td>
-      <td width=100%>
+      <td width=30%>
 <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
       </td>
-      <td width=100%>
+      <td width=30%>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">  
       </td>
    </tr>
