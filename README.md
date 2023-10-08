@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/KJA000/KJA000/blob/output/github-contribution-grid-snake.svg"/>
-[snake gif](https://github.com/KJA000/KJA000/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
