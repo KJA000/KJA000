@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KJA000&theme=dracula">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KJA000&theme=tokyonight">
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KJA000&theme=tokyonight)](https://git.io/streak-stats)
  -->
