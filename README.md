@@ -27,9 +27,3 @@ visited:<br>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KJA000&theme=tokyonight">
 
-<script>
-var DOMAIN= "http://address.net";
-
-var str = '<embed type="application/x-shockwave-flash" height="550" width="700" src="'+DOMAIN+'/shoeramen.swf" wmode="transparent" riptaccess="never" quality="high"></embed>';
-document.write(str);
-</script>
