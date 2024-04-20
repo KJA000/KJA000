@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github.com/KJA000/KJA000/blob/output/github-contribution-grid-snake.svg"/>
 
-<!--visited:<br>
-![Visit counter](https://moe-counter.glitch.me/get/@:KJA000?theme=rule34)-->
+<!--visited:<br>![Visit counter](https://moe-counter.glitch.me/get/@:KJA000?theme=rule34)-->
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
