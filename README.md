@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://moe-counter.glitch.me/get/@:KJA000?theme=rule34" alt="Visit counter">
 
-visited:<br>![Visit counter](--><!--https://moe-counter.glitch.me/get/@:KJA000?theme=rule34)
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
