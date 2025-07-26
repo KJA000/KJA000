@@ -20,28 +20,34 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧪 Experience
+# 🧪 Experience
 
 - 2025.08 ~ 2025.11  Toss QA Assistant
 - 2025.01 ~ 2025.03  BMW Korea Product Development and testing intern
-- 2024.01 ~ 2024.06  ETAS Korea SDV 개발솔루션팀 인턴
+- 2024.01 ~ 2024.06  ETAS Korea DEV intern
 - 2023.07 ~ 2024.08  COS Lab (Undergraduate Research)
 
 ---
 
-## 📚 Publications
+# 📚 Publications
 
 - 📄 *TinySeg: Flash-aware Inference for Embedded Systems*  
   _ACM LCTES 2024_ (2024.06)
 
 ---
 
-## 🔍 Interests
+# 🔍 Interests
 
 - Embedded AI Optimization  
 - ECU Virtualization & Testing Automation  
 - Automotive Communication Protocols  
 - QA Engineering & Tooling
+
+
+
+
+
+
 
 <img src="https://github.com/KJA000/KJA000/blob/output/github-contribution-grid-snake.svg"/>
 
