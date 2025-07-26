@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 # 🧪 Experience
 
 - 2025.08 ~ 2025.11  Toss QA Assistant
-- 2025.01 ~ 2025.03  BMW Korea Product Development and testing intern
+- 2025.01 ~ 2025.03  BMW Korea Product Development and Testing intern
 - 2024.01 ~ 2024.06  ETAS Korea DEV intern
 - 2023.07 ~ 2024.08  COS Lab (Undergraduate Research)
 
@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 - Automotive Communication Protocols  
 - QA Engineering & Tooling
 
+---
 
+# 📔 Licenses
+
+- ISTQB CTFL
 
 
 
