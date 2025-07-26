@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # 📚 Publications
 
-- 📄 *TinySeg: Flash-aware Inference for Embedded Systems*  
+- 📄 *TinySeg: Model Optimizing Framework for Image Segmentation on Tiny Embedded Systems*  
   _ACM LCTES 2024_ (2024.06)
 
 ---
